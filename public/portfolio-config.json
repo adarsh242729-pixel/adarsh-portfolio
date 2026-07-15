@@ -1,6 +1,20 @@
 {
   "CONFIG": {
     "name": "Adarsh Singh",
-    "title": "MERN Stack Developer"
+    "title": "Full-Stack Web Developer & AI-Ready Engineer",
+    "email": "adarsh242729@gmail.com",
+    "bio": "Building scalable web applications with modern tech stack. Experienced in React, Next.js, Node.js, and cloud deployment. Passionate about AI integration, performance optimization, and creating exceptional user experiences.",
+    "location": "India",
+    "github": "https://github.com/adarsh242729-pixel",
+    "linkedin": "https://www.linkedin.com/in/adarsh-singh-dev/",
+    "twitter": "https://twitter.com/adarshdev",
+    "openToRoles": ["Full-Stack Developer", "Frontend Developer", "AI/ML Integration Engineer"],
+    "skills": {
+      "frontend": ["React 18+", "Next.js 14+", "TypeScript", "Tailwind CSS", "Vite 5", "Vue.js", "Shadcn/ui"],
+      "backend": ["Node.js", "Express.js", "Python", "FastAPI", "MongoDB", "PostgreSQL", "Firebase"],
+      "devops": ["Docker", "GitHub Actions", "Netlify", "Vercel", "AWS basics"],
+      "ai_tools": ["OpenAI API", "Langchain", "Vector Databases", "Prompt Engineering"],
+      "tools": ["Git", "Figma", "Postman", "VS Code", "Terminal"]
+    }
   }
 }
