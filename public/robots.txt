@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://startling-zuccutto-f87933.netlify.app/sitemap.xml
+
+# Disallow crawling of sensitive paths
+Disallow: /.env
+Disallow: /.git
